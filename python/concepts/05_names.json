@@ -1,0 +1,19 @@
+[
+{
+  "Fruit": "Apples",
+  "Lock": 4,
+  "Code": "Python"
+},
+
+{
+"Market": "Bazaar",
+"Funny": true,
+"Math": 0.003,
+"Fly": false
+},
+{
+"Animal": "Aardvark",
+"7": "Lucky",
+"true": 1.6
+}
+]

@@ -1,0 +1,44 @@
+# card game
+
+>> To construct this game, we will create:
+
+>. Card Class
+
+>. Deck Class
+
+>. Player Class
+
+>. Game Logic
+
+>> our logic for the game!
+  ________________________
+
+    >. Player1, Player2
+
+    >. Shuffle
+
+    >. Split equally to both
+
+    >. Check for 0 Cards
+
+    >. game_on = True
+
+    >. while game_on (Comparision of cards)
+
+    >. while at_war
+
+    >. If any player got all the cards then game_on = False
+
+    >. Player who got all cards wins the match.
+
+>. Now it's time to check the player's cards against each other.
+
+>. There are lots of ways this can be done!
+
+>> We have 3 SItuations:
+
+>. Player One > Player Two
+
+>. Player One < Player Two
+
+>. Player One == Player Two
